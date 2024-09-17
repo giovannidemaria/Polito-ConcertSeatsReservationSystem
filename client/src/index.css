@@ -1,0 +1,30 @@
+/* Ensure the entire page takes at least the full height of the viewport */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* The main content will take all the available space except the footer */
+  main {
+    flex: 1;
+    padding-top: 20px;  /* Adjust this value as needed */
+    padding-bottom: 20px;  /* Adjust this value as needed */
+  }
+  
+  /* Ensure footer is at the bottom when content is short */
+  footer {
+    margin-top: auto;
+  }
+
+  
+  /* Add space between the container content and its borders */
+  .container {
+    padding-top: 20px;  /* Adjust this value as needed */
+    padding-bottom: 20px;  /* Adjust this value as needed */
+  }  
