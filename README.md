@@ -1,4 +1,4 @@
-# Web Application Exam Project "Concert Seats"
+# Web Application Exam Project "Concert Seats Reservation System"
 
 This is the project that I have done at Politecnico di Torino for the [Web Applications Exam](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYOUV&p_a_acc=2024&p_header=S&p_lang=&multi=N).
 
