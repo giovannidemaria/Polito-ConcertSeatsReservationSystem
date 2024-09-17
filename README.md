@@ -1,6 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XYY1fduM)
+# Web Application Exam Project "Concert Seats"
 
-# Exam #3: "Concert Seats"
+This is the project that I have done at Politecnico di Torino for the [Web Applications Exam](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYOUV&p_a_acc=2024&p_header=S&p_lang=&multi=N).
 
 ## Student: s331031 de Maria Giovanni
 
